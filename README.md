@@ -18,8 +18,8 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![MIT License][license-shield]][https://opensource.org/license/mit/]
-[![LinkedIn][linkedin-shield]][https://fr.linkedin.com/in/theophane-dumas]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 <br />
 <div align="center">
   <a href="https://github.com/theophane-droid/KadavraC2">
