@@ -19,8 +19,10 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 <div align="center">
+  
   [![MIT License][license-shield]][license-url]
   [![LinkedIn][linkedin-shield]][linkedin-url]
+
 </div>
 <br />
 <div align="center">
