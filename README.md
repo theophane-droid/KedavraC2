@@ -18,8 +18,8 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![MIT License][license-shield]](https://opensource.org/license/mit/)
-[![LinkedIn][linkedin-shield]](https://fr.linkedin.com/in/theophane-dumas)
+[![MIT License][license-shield]][https://opensource.org/license/mit/]
+[![LinkedIn][linkedin-shield]][https://fr.linkedin.com/in/theophane-dumas]
 <br />
 <div align="center">
   <a href="https://github.com/theophane-droid/KadavraC2">
@@ -59,8 +59,6 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -127,13 +125,19 @@ python -m kedavra listen --listener_type socket --port 4444
 - [x] Indicate last contact time on implant
 - [x] Automatic compilation using CLI
 - [x] README.md
+- [x] Command execution
+- [x] Script execution
+- [ ] Library loading
+    - [ ] Load any script size
+    - [ ] Compile and send library with dependencies
+    - [ ] Use script by using args
+- [ ] Cross-protocol network bounce
+- [ ] Add builtin tools
 - [ ] Protocol support
-    - [ ] SOCKET
+    - [x] SOCKET
     - [ ] ENCRYPTED SOCKET
     - [ ] HTTPS
     - [ ] DNS
-- [ ] Cross-protocol network bounce
-- [ ] Add builtin tools
 
 See the [open issues](https://github.com/theophane-droid/KedavraC2/issues) for a full list of proposed features (and known issues).
 
@@ -162,15 +166,5 @@ Don't forget to give the project a star! Thanks again!
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/theophane-droid/KedavraC2](https://github.com/theophane-droid/KedavraC2)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
