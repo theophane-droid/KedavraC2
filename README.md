@@ -135,12 +135,16 @@ python -m kedavra listen --listener_type socket --port 4444
     - [ ] Load any script size
     - [ ] Compile and send library with dependencies
     - [ ] Use script by using args
-- [ ] Cross-protocol network bounce
 - [ ] Add builtin tools
+    - [ ] Push files
+    - [ ] Get files
+    - [ ] Network recon
+- [ ] Staged / stageless
+- [ ] Cross-protocol network bounce
 - [ ] Protocol support
     - [x] SOCKET
-    - [ ] ENCRYPTED SOCKET
-    - [ ] HTTPS
+    - [ ] ENCRYPTED SOCKET (Diffie-Helman ?)
+    - [ ] HTTPS ( tornado )
     - [ ] DNS
 
 See the [open issues](https://github.com/theophane-droid/KedavraC2/issues) for a full list of proposed features (and known issues).
